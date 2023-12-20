@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main-form {
+    width: 40%;
+}
+
+label {
+    display: flex;
+}
+
+.label-input {
+    text-align: center;
+    justify-content: center;
+}
+
+.btn-primary {
+    margin-inline: auto;
+    display: flex;
+}
